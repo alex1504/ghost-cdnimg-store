@@ -1,0 +1,29 @@
+{
+  "name": "ghost-cdnimg-store",
+  "version": "1.0.0",
+  "description": "Ghost img accelerate storage module.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alex1504/ghost-cdnimg-store.git"
+  },
+  "keywords": [
+    "ghost",
+    "img",
+    "upload",
+    "cdn"
+  ],
+  "author": "alex1504",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alex1504/ghost-cdnimg-store/issues"
+  },
+  "homepage": "https://github.com/alex1504/ghost-cdnimg-store#readme",
+  "dependencies": {
+    "ghost-storage-base": "^1.0.0",
+    "upimg": "^0.5.2"
+  }
+}
